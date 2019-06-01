@@ -1,1 +1,1 @@
-# Udacity Secure & Private AI Mini Projects
+# Udacity Secure & Private AI Mini-Projects
