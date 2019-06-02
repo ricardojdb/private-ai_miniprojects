@@ -1,6 +1,6 @@
 # Udacity Secure & Private AI Mini-Projects
 
-The purpose of this repo is to simplify the Mini-Projects of the Secure & Private AI Challenge from Udacity and Facebook.
+The purpose of this repo is to simplify the Mini-Projects of the Secure & Private AI Course from Udacity.
 
 ## Installation
 
